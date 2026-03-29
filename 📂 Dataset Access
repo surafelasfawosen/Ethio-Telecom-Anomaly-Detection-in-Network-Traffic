@@ -1,0 +1,8 @@
+
+This advanced simulation relies on the **NSL-KDD Network Intrusion Dataset**. It splits the network traffic into distinct training algorithms and unseen verification tests. 
+
+To run this simulation locally, download the required `.txt` files here:
+* **[Kaggle Dataset Source](https://www.kaggle.com/datasets/hassan06/nslkdd)** 
+* **[Original Academic Publication](https://www.unb.ca/cic/datasets/nsl.html)** *(Canadian Institute for Cybersecurity)*
+
+Ensure that `KDDTrain+.txt` and `KDDTest+.txt` are placed in the correct working directory before initializing the Python Notebook.
